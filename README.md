@@ -6,7 +6,7 @@ The distribution of this project is the following, the models work on predicting
 
 ### Context	
 
-Music streaming services have changed the way we listen to music. Platforms like Apple Music and Spotify allow us to enjoy music anytime and anywhere. You can create your own playlists, share them with your friends, and even share your subscriptions with family.
+Music streaming services have changed the way we listen to music. Platforms like Apple Music and Spotify allow us to enjoy music anytime and anywhere. You can create your playlists, share them with your friends, and even share your subscriptions with family.
 You are responsible for managing multi-user accounts, also known as family accounts. These accounts are associate with a single subscription for multiple users, who retain the ability to create their own playlists and access personal music statistics.
 
 On the morning of November 21, Spotify's servers were attacked by hackers. The hackers deleted users' Top-of-the-Year playlists from family accounts. These users find themselves faced with a huge playlist that mixes everything. If users on the same family account have exactly the same musical taste, that's fine. But who would listen to exactly the same thing as their parents or roommates?
