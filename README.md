@@ -21,8 +21,24 @@ These playlists are not complete.
 You need to reconstruct each playlists.
 For each song, your team created a number of characteristics to describe this song. These characteristics can also be found in every CSV file.
 
-
 ### Tasks
 
 Reconstruct the Top-of-the-year playlists for different users.
 As a data analyst, your team also need to develop algorithms that recommend the next song to users. The song the user is currently listening to is an important reference. The user's music taste in previous years can also be used as a basis for recommendations. Please suggest several characteristics of song that can be used as input features for the recommendation algorithm and justify your proposal.
+
+### Note: Before starting
+It is important to notice that every single data extraction from mixed playlist were made taking into account the following location of the file, inside of a folder called 'data'
+
+mixed_playlist = pd.read_csv('data/mixed_playlist.csv')
+
+image.png
+
+The distribution of this Jupiter Notebook is the following
+
+image-2.png
+
+image-3.png
+
+The final output will be a folder called 'Playlists' with all the playlists for each user and each year, with the same structure as 'recovered_data' folder
+
+At the end it was proposed an accesing to the users playlist throught dictionaries
