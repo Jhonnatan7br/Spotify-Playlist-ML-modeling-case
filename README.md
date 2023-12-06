@@ -31,7 +31,24 @@ It is important to notice that every single data extraction from mixed playlist 
 
 mixed_playlist = pd.read_csv('data/mixed_playlist.csv')
 
-image.png
+#### Note: Before starting 
+
+It is important to notice that every single data extraction from mixed playlist were made taking into account the following location of the file, inside of a folder called 'data'
+
+mixed_playlist = pd.read_csv('data/mixed_playlist.csv')
+
+![image.png](attachment:image.png)
+
+The distribution of this Jupiter Notebook is the following
+
+![image-2.png](attachment:image-2.png)
+
+![image-3.png](attachment:image-3.png)
+
+The final output will be a folder called 'Playlists' with all the playlists for each user and each year, with the same structure as 'recovered_data' folder
+
+At the end it was proposed an accesing to the users playlist throught dictionaries 
+
 
 The distribution of this Jupiter Notebook is the following
 
