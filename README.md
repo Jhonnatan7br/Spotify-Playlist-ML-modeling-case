@@ -1,3 +1,5 @@
+![image](https://github.com/Jhonnatan7br/Spotify-Playlist-ML-modeling-case/assets/104907786/6dfb70de-2b39-4a74-b344-bf324f926fa6)
+
 # Project	 
 
 The distribution of this project is the following, the models work on predicting 'top_year' of songs and 'user' preferences
