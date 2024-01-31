@@ -1,6 +1,6 @@
 ![image](https://github.com/Jhonnatan7br/Spotify-Playlist-ML-modeling-case/assets/104907786/6dfb70de-2b39-4a74-b344-bf324f926fa6)
 
->[!TIIP]
+>[!TIP]
 > This is a simplified representation of how a recommendation system can work, to put it in production it can be optimized with other frameworks or more complex models
 
 # Project	 
